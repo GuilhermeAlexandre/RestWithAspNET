@@ -1,0 +1,14 @@
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.2\RestWithAspNET.csproj.CoreCompileInputs.cache
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.2\RestWithAspNET.AssemblyInfoInputs.cache
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.2\RestWithAspNET.AssemblyInfo.cs
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\bin\Debug\netcoreapp2.2\RestWithAspNET.deps.json
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\bin\Debug\netcoreapp2.2\RestWithAspNET.runtimeconfig.json
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\bin\Debug\netcoreapp2.2\RestWithAspNET.runtimeconfig.dev.json
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\bin\Debug\netcoreapp2.2\RestWithAspNET.dll
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\bin\Debug\netcoreapp2.2\RestWithAspNET.pdb
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.2\RestWithAspNET.csprojAssemblyReference.cache
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.2\RestWithAspNET.RazorAssemblyInfo.cache
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.2\RestWithAspNET.RazorAssemblyInfo.cs
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.2\RestWithAspNET.RazorTargetAssemblyInfo.cache
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.2\RestWithAspNET.dll
+D:\CursoAspNet\RestWithAspNET\RestWithAspNET\obj\Debug\netcoreapp2.2\RestWithAspNET.pdb
