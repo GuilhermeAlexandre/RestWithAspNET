@@ -12148,11 +12148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CursoAspNet\\RestWithAspNET\\RestWithAspNET\\RestWithAspNET.csproj",
+      "projectUniqueName": "D:\\CursoAspNet\\RestWithAspNET\\RestWithAspNET 01 - Calculator\\RestWithAspNET.csproj",
       "projectName": "RestWithAspNET",
-      "projectPath": "D:\\CursoAspNet\\RestWithAspNET\\RestWithAspNET\\RestWithAspNET.csproj",
+      "projectPath": "D:\\CursoAspNet\\RestWithAspNET\\RestWithAspNET 01 - Calculator\\RestWithAspNET.csproj",
       "packagesPath": "C:\\Users\\Guilherme Alexandre\\.nuget\\packages\\",
-      "outputPath": "D:\\CursoAspNet\\RestWithAspNET\\RestWithAspNET\\obj\\",
+      "outputPath": "D:\\CursoAspNet\\RestWithAspNET\\RestWithAspNET 01 - Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
